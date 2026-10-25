@@ -1,0 +1,9 @@
+streamlit>=1.38
+numpy
+pandas
+scipy
+matplotlib
+Pillow
+openpyxl
+pymupdf
+rapidocr-onnxruntime
